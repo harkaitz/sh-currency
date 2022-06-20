@@ -8,6 +8,8 @@ Scripts to interface with exchanges.
 ## Prerequisites
 
 - [sh-hutil](https://github.com/harkaitz/sh-hutil) : Bash script utility library.
+- [curl](https://curl.se/)
+- [jq](https://stedolan.github.io/jq/)
 
 ## Help
 
